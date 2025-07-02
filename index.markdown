@@ -7,4 +7,4 @@ layout: home
 
 Sometimes the biggest problem with starting your research is getting the IT to work, especially if you're not from a techie background. I have over 30 years experience in working with researchers and their IT problems, from getting a particular software package to working on desktops to building tier 2 supercomputing facilities.
 
-
+![Ghost](/assets/img/ghost.jpg)
