@@ -23,7 +23,8 @@ email: m.t.wallis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Looking for someone to help get through the IT needed to start your research? I can help. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: mikewallis.github.io
+url: "https://mikewallis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: mikewallis
 
 # Build settings
@@ -57,3 +58,4 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
